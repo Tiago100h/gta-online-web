@@ -125,7 +125,7 @@ abbr {
 }
 
 .search input {
-    background-image: url(/resources/search-solid.svg);
+    background-image: url('../resources/search-solid.svg');
     background-repeat: no-repeat;
     background-size: 1.8em;
     background-position: 1em center;
